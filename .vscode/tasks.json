@@ -2,9 +2,9 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Running your app...",
+      "label": "Installing extensions and running your app...",
       "type": "shell",
-      "command": "bun run hello.js",
+      "command": "code-server --install-extesnion formulahendry.code-runner && bun run hello.js",
       "presentation": {
         "reveal": "always",
         "panel": "new"
