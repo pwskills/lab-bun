@@ -1,4 +1,4 @@
-# neurolab-bun
+# lab-bun
 
 Command to run hello.js file:
 
